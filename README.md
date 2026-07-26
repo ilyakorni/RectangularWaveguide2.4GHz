@@ -16,7 +16,7 @@
 ## Результаты моделирования (CST Studio Suite)
 
 ### 3D моделька
-![Моделька](Rectangular-Waveguide-2.4GHz/images/image_2026-07-26_09-44-08.pg)
+![Моделька](Rectangular-Waveguide-2.4GHz/images/image_2026-07-26_09-44-08.png)
 
 ### График КСВН
 ![График КСВН](Rectangular-Waveguide-2.4GHz/images/image_2026-07-26_09-40-46.png)
